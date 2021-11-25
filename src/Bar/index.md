@@ -1,3 +1,3 @@
 ## Bar
 
-<API src="API.tsx" />
+<API src="./API.tsx" />
