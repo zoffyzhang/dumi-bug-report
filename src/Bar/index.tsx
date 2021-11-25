@@ -1,8 +1,8 @@
 import React from 'react';
 
 export interface Props {
-  barPropA: string;
-  barPropB: string;
+  bar: string;
+  barExtra: string;
 }
 
-export default (props: Props) => <div>{props.barPropA}</div>;
+export default (props: Props) => <div>{props.bar}</div>;
